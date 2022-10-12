@@ -1,0 +1,46 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "dungeon-01.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 246.3333333333333,
+                "y": 250.99999999999997
+            }
+        },
+        "dungeon-01.tmx#dungeon": {
+            "scaleInDock": 1
+        },
+        "dungeon.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 203.25,
+                "y": 162.25
+            }
+        },
+        "dungeon.tmx#dungeon": {
+            "scaleInEditor": 4
+        }
+    },
+    "last.exportedFilePath": "/Users/j.kubas/Projects/stuff/dungeon/public/tiles",
+    "last.imagePath": "/Users/j.kubas/Projects/stuff/dungeon/public/tiles",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+    ],
+    "project": "dungeon.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "dungeon-01.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
